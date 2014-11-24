@@ -1,0 +1,25 @@
+2014-10-07 18:09:48.265 HelloWorld[2477:849605] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kento/Library/Developer/CoreSimulator/Devices/3F36BBF7-61C9-4B44-B2EB-CF7C2F66FF47/data/Containers/Data/Application/E0101EF5-E51D-4B09-B642-537CE5FC9E26/Library/Cookies/Cookies.binarycookies
+2014-10-07 18:09:48.420 HelloWorld[2477:849605] Multi-tasking -> Device: YES, App: YES
+2014-10-07 18:09:48.501 HelloWorld[2477:849605] Unlimited access to network resources
+2014-10-07 18:09:48.502 HelloWorld[2477:849605] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 18:09:49.459 HelloWorld[2477:849605] Resetting plugins due to page load.
+2014-10-07 18:09:49.570 HelloWorld[2477:849605] Finished load of: file:///Users/kento/Library/Developer/CoreSimulator/Devices/3F36BBF7-61C9-4B44-B2EB-CF7C2F66FF47/data/Containers/Bundle/Application/C853FA81-59C6-4232-A39F-884322C1EA0A/HelloWorld.app/www/index.html
+2014-10-07 23:26:04.074 HelloWorld[7953:1270099] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/kento/Library/Developer/CoreSimulator/Devices/3F36BBF7-61C9-4B44-B2EB-CF7C2F66FF47/data/Containers/Data/Application/697471A5-A39A-4A46-9BAA-FBCDC84FC6B3/Library/Cookies/Cookies.binarycookies
+2014-10-07 23:26:04.215 HelloWorld[7953:1270099] Multi-tasking -> Device: YES, App: YES
+2014-10-07 23:26:04.219 HelloWorld[7953:1270099] Unlimited access to network resources
+2014-10-07 23:26:04.221 HelloWorld[7953:1270099] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-07 23:26:04.359 HelloWorld[7953:1270099] Resetting plugins due to page load.
+2014-10-07 23:26:04.381 HelloWorld[7953:1270099] Finished load of: file:///Users/kento/Library/Developer/CoreSimulator/Devices/3F36BBF7-61C9-4B44-B2EB-CF7C2F66FF47/data/Containers/Bundle/Application/A88B026B-C247-4CC2-9CA2-A3031ACC5124/HelloWorld.app/www/index.html
+2014-10-07 23:26:04.433 HelloWorld[7953:1270099] THREAD WARNING: ['Notification'] took '26.605225' ms. Plugin should use a background thread.
